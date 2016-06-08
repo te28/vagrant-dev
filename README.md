@@ -11,11 +11,22 @@ LAMP環境で表示の検証やテストを行いたい場合の
 
 ## 使用方法
 
-1.
+1.当リポジトリをcloneします。
 
 ```
-git clone
+$ git clone https://github.com/te28/vagrant-dev
 ```
+
+1.cloneしたディレクトリに移動し、vagrant upします。
+
+```
+$ cd vagrant-dev
+$ vagrant up
+```
+
+1.[dev.local](http://dev.local)にアクセスします。
+
+
 
 ## 環境
 
